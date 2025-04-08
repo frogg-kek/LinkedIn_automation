@@ -24,7 +24,7 @@ The script navigates through LinkedIn's job listings, clicks on jobs matching yo
 
 1. Clone this repository or download the script:
    ```
-   git clone https://github.com/yourusername/linkedln_automation.git
+   git clone https://github.com/frogg-kek/LinkedIn_automation.git
    ```
 
 2. No additional dependencies are required as this is pure JavaScript meant to run in a browser console.
